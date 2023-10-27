@@ -2,7 +2,7 @@ package program;
 
 import java.util.Scanner;
 
-public class DogClass {
+public class  DogClass {
     // Data Fields
     private String dogStatus;
     private double dogWeight;
